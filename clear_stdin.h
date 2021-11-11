@@ -8,6 +8,6 @@
 void clear_stdin(void) {
     char c = 0;
     while(c != '\n' && c != -1) {
-        read(1, &c, 1);
+        read(0, &c, 1);
     }
 }
