@@ -1,6 +1,6 @@
 /*
 ** Victor, 2021
-** basniv1.c
+** test.c
 ** File description:
 ** hello $name (low level)
 */
